@@ -19,12 +19,7 @@ const thoughtSchema = new Schema({
     type: String,
     required: true,
   },
-
-  reactions: [
-    {
-      type: reactionSchema
-    }
-  ]
+  reactions: [reactionSchema]
 });
 
 thoughtSchema.virtual("formattedCreatedAt").get(function () {
