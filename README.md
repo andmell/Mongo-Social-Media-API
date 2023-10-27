@@ -48,7 +48,7 @@ Friends
 - Add friend by ID: http://localhost:3001/api/users/SourceUser/friends/TargetUser
 - Remove friend by ID: http://localhost:3001/api/users/SourceUser/friends/TargetUser
 ```
-An instructional video on how to use insomnia to test these routes can be found [here.](https://youtu.be/7emmBSxHY1)
+An instructional video on how to use insomnia to test these routes can be found [here.](https://youtu.be/7emmBSxHY1U)
 
 ## Credits
  - [DayJS](https://day.js.org/), a JavaScript date utility library
